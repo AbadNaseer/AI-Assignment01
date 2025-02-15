@@ -1,4 +1,4 @@
-# Maze.py
+# Maze.py Using AI
 import numpy as np
 import random
 
